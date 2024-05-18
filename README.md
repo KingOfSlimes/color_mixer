@@ -12,7 +12,7 @@ This is a simple color mixing application built using `CustomTkinter`. The appli
 
    Locate and open the `color_mixer.exe` file to start the application.
 
-   ![Open Executable](path/to/your/open_executable_image.png)
+   ![Open Executable](images/1.png)
 
 3. **Mix Colors**:
 
